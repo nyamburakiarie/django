@@ -1,0 +1,15 @@
+.yy{
+    color: coral;
+    font-family: Pagul, cursive;
+}
+body{
+    background-color: dimgrey;
+}
+.heading{
+    font-family: Pagul, cursive;
+    background-color: red;
+}
+.link{
+    text-decoration: none;
+    color: palevioletred;
+}
